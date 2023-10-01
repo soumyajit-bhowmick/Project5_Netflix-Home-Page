@@ -12,7 +12,7 @@ body{
 }
 .container::before{
     content: "";
-    background: url(image/Netflix\ home\ page.jpg) no-repeat center center/cover;
+    background: url(images/Netflix\ home\ page.jpg) no-repeat center center/cover;
     position: absolute;
     height: 100%;
     width: 100%;
